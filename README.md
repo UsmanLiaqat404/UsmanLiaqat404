@@ -62,10 +62,5 @@
 ![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-
-
-## Joke 😁
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
-
 ##
 <p align="center"> © 2023 Creative Usman Liaqat, all rights reserved. Made with ❤️ </p>
