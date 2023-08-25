@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning...
 
-- 💬 Ask me about **Html, Css, Javascript**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **chusmanliaqat1020@gmail.com**
 
