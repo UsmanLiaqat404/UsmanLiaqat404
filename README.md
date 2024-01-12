@@ -1,18 +1,10 @@
-<!-- ![](https://komarev.com/ghpvc/?username=UsmanLiaqat404) -->
-
-
-
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hello+I'am+Usman+Liaqat;Welcome+to+my+Github!)](https://git.io/typing-svg) -->
+<img align="center" src="https://little.kylerconway.com/images/golang-what.gif" />
 
 ## 🚀 About Me
 
-<img align="left" height="100" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" />
+- 💬 Ask me about anything, I am happy to help;
 
-- 🌱 I’m currently learning...
-
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **chusmanliaqat1020@gmail.com**
+- 📫 How to reach me **https://usmanliaqat-portofolio.web.app**
 
 ## 📊 Stats
 
