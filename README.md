@@ -1,58 +1,102 @@
-<img align="center" src="https://little.kylerconway.com/images/golang-what.gif" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="128" width="128" />
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/I AM %20PAKISTANI - PROGRAMMER-green?colorA=%23017e40&colorB=%23ff0000&style=flat-square" />
+</p>
+
+## A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 - 💬 Ask me about anything, I am happy to help;
-
 - 📫 How to reach me **https://usmanliaqat-portofolio.web.app**
 
-## 📊 Stats
+```javascript
+const usmanliaqat404 = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Redux, Node, Storybook, Styled - Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge:
+    "I am doing the #100DaysOfCode challenge focused on shell and python",
+};
+```
 
-![trophy](https://github-readme-stats.vercel.app/api?username=UsmanLiaqat404&theme=blue-green)
-![trophy](https://github-readme-streak-stats.herokuapp.com?user=UsmanLiaqat404&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanLiaqat404&layout=compact&theme=cobalt&hide_border=true)
+## Stats 📊
 
-## 🖥 Web Development
+![usmanliaqat404](https://github-readme-stats.vercel.app/api?username=UsmanLiaqat404&theme=blue-green)
+![usmanliaqat404](https://github-readme-streak-stats.herokuapp.com?user=UsmanLiaqat404&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![usmanliaqat404](https://github-profile-trophy.vercel.app/?username=usmanliaqat404&theme=onedark)
+![usmanliaqat404](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanLiaqat404&layout=compact&theme=cobalt&hide_border=true)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![NuxtJS](https://camo.githubusercontent.com/6ddea140b463f77ca151e8d60618c4398a6193ecb284512838c6cb8f556d8f5a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e7578742e6a7326636f6c6f723d323232323232266c6f676f3d4e7578742e6a73266c6f676f436f6c6f723d303044433832266c6162656c3d)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width=25px height=25px />
 
-## 📱 Mobile Development
+<table><tr><td valign="top" width="33%">
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://camo.githubusercontent.com/825b9f57796bc1020ab4e80a1263da07752deaf2e967358587141e75beada9f2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d466c757474657226636f6c6f723d303235363942266c6f676f3d466c7574746572266c6f676f436f6c6f723d464646464646266c6162656c3d)
+### Frontend
 
-## ⚙ Backend Development 
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://backbonejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/backbonejs-original-wordmark.svg" alt="Backbone.js" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
+<a href="https://www.capacitorjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/capacitor.svg" alt="Capacitor" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![NestJS](https://camo.githubusercontent.com/6d02930c561b85ff42026c9e66d1a545e76161001da655387f2767f885cc4af5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e6573744a5326636f6c6f723d453032333445266c6f676f3d4e6573744a53266c6f676f436f6c6f723d464646464646266c6162656c3d)
+</td><td valign="top" width="33%">
 
-## 🛠 Devops
+### Backend
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-## ☁ Cloud
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
 
-![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+</td><td valign="top" width="33%">
 
-## 📄 Code Editors
+### DevOps
 
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a> 
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+</div>
 
-##
-<p align="center"> © 2023 Creative Usman Liaqat, all rights reserved. Made with ❤️ </p>
+</td></tr></table>
+
+<img src="https://hips.hearstapps.com/hmg-prod/images/line-break-1644443423.png" alt="Line Break" width="100%" />
+
+<img align="center" src="https://little.kylerconway.com/images/golang-what.gif" />
