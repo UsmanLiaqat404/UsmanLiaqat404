@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="128" width="128" />
-</p>
+<img align="center" src="https://little.kylerconway.com/images/golang-what.gif" />
 
-<p align="center">
-  <img align="center" src="https://img.shields.io/badge/I AM %20PAKISTANI - PROGRAMMER-green?colorA=%23017e40&colorB=%23ff0000&style=flat-square" />
-</p>
 
 ## A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
@@ -98,5 +93,3 @@ const usmanliaqat404 = {
 </td></tr></table>
 
 <img src="https://hips.hearstapps.com/hmg-prod/images/line-break-1644443423.png" alt="Line Break" width="100%" />
-
-<img align="center" src="https://little.kylerconway.com/images/golang-what.gif" />
